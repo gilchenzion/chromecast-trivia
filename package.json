@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gilchenzion/chromecast-trivia/issues"
   },
-  "homepage": "https://github.com/gilchenzion/chromecast-trivia"
+  "homepage": "https://github.com/gilchenzion/chromecast-trivia",
+  "dependencies": {
+    "koa-ejs": "^2.0.1"
+  }
 }
