@@ -1,0 +1,24 @@
+{
+  "name": "chromecast-trivia",
+  "version": "1.0.0",
+  "description": "A trivia game for the chromecast",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilchenzion/chromecast-trivia.git"
+  },
+  "keywords": [
+    "trivia",
+    "bar",
+    "chromecast"
+  ],
+  "author": "Gil Chen-Zion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilchenzion/chromecast-trivia/issues"
+  },
+  "homepage": "https://github.com/gilchenzion/chromecast-trivia"
+}
