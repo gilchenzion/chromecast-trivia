@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/gilchenzion/chromecast-trivia",
   "dependencies": {
-    "koa-ejs": "^2.0.1"
+    "koa": "^0.21.0",
+    "koa-ejs": "^2.0.1",
+    "koa-static": "^1.4.9"
   }
 }
